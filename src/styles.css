@@ -2,7 +2,7 @@
 /* Styling for the Todo List */
 body {
     font-family: Arial, sans-serif;
-    background-color: #ed3b24;
+    background-color: #6124ED;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -43,7 +43,7 @@ body {
   button {
     padding: 10px 20px;
     font-size: 16px;
-    background-color: #ed3b24;
+    background-color: #6124ED;
     color: #fff;
     border: none;
     border-radius: 4px;
@@ -51,7 +51,7 @@ body {
   }
   
   button:hover {
-    background-color: hwb(4 0% 30%);
+    background-color: #0056b3;
   }
   
   ul {
